@@ -90,3 +90,4 @@ global:
     postgresqlDatabase: healthy
     postgresqlUsername: healthyuser
     postgresqlPassword: healthyPassword
+    postgresqlPostgresPassword: 
